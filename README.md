@@ -1,3 +1,5 @@
+Send a message via Telegram with php
+
 ```php
 $telegram = new Telegram('2834145567:FASRQWXDakJCEd2T7q1kLU2Zm3j4fDSaJ0A');
 
