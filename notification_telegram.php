@@ -1,5 +1,9 @@
 <?php
 
+    // Lukas Stuffer
+    // IG: _lukasstuffer_
+
+
     class HttpHelper {
 
         private $url;
